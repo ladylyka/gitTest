@@ -3,8 +3,10 @@ copy clone url to use in machine after creating repository
 cd - change directory
 ls/dir - listing of all files
 git clone <url>
-git add
+git add <name of file.ext>
 git push
-git commit
+git commit -m "message"
 git pull
  git status
+git add . or git add A
+ Test
