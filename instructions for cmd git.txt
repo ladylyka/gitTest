@@ -1,5 +1,0 @@
-Github command lines
-copy clone url to use in machine after creating repository
-cd - change directory
-ls/dir - listing of all files
-git clone <url>
