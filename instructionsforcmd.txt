@@ -5,8 +5,11 @@ ls/dir - listing of all files
 git clone <url>
 git add <name of file.ext>
 git push
-git commit -m "message"
+git commit -m "message" accidental no message git esc :wq
 git pull
  git status
 git add . or git add A
  Test
+git rm  to delete 
+git rm <filename>
+use quotes for filename with space
